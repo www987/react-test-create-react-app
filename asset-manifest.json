@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www987/react33.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/www987/react33.git/static/js/main.ce7b0870.chunk.js",
+    "main.js.map": "/www987/react33.git/static/js/main.ce7b0870.chunk.js.map",
+    "runtime-main.js": "/www987/react33.git/static/js/runtime-main.a199fccd.js",
+    "runtime-main.js.map": "/www987/react33.git/static/js/runtime-main.a199fccd.js.map",
+    "static/js/2.be088ca4.chunk.js": "/www987/react33.git/static/js/2.be088ca4.chunk.js",
+    "static/js/2.be088ca4.chunk.js.map": "/www987/react33.git/static/js/2.be088ca4.chunk.js.map",
+    "static/js/3.8ee3db6b.chunk.js": "/www987/react33.git/static/js/3.8ee3db6b.chunk.js",
+    "static/js/3.8ee3db6b.chunk.js.map": "/www987/react33.git/static/js/3.8ee3db6b.chunk.js.map",
+    "index.html": "/www987/react33.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/www987/react33.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.be088ca4.chunk.js.LICENSE.txt": "/www987/react33.git/static/js/2.be088ca4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/www987/react33.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a199fccd.js",
+    "static/js/2.be088ca4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ce7b0870.chunk.js"
+  ]
+}
